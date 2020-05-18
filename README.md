@@ -1,2 +1,2 @@
-# quick_start_guide_to_dart_programming_r-d
-R&amp;D instared by the book Quick Start Guide to Dart Programming. My study way
+# Source code related to the book's source code
+R&amp;D instared by the book [Quick Start Guide to Dart Programming](https://www.apress.com/gp/book/9781484255612). My study way.
